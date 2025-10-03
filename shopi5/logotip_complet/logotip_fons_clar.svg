@@ -2,13 +2,18 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="86.305504mm"
-   height="47.009834mm"
-   viewBox="0 0 86.305504 47.009834"
+   width="86.305511mm"
+   height="47.009827mm"
+   viewBox="0 0 86.305511 47.009827"
    version="1.1"
    id="svg1"
    inkscape:export-batch-path="C:\Users\bnuuy\Downloads\shopi5"
    inkscape:export-batch-name=""
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="shopify_logotipos.svg"
+   inkscape:export-filename="shopify_logotipos.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,24 +30,16 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="1.0167041"
-     inkscape:cx="263.59686"
-     inkscape:cy="582.76544"
+     inkscape:cx="295.56289"
+     inkscape:cy="258.18722"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     inkscape:export-bgcolor="#ffffffff">
-    <inkscape:page
-       x="0"
-       y="-2.7764496e-13"
-       width="86.305504"
-       height="47.00983"
-       id="page2"
-       margin="0"
-       bleed="0" />
-  </sodipodi:namedview>
+     inkscape:export-bgcolor="#46464600"
+     showgrid="false" />
   <defs
      id="defs1">
     <rect
@@ -75,20 +72,20 @@
        gradientTransform="matrix(1.2239833,0,0,1.03795,-59.176393,-36.691868)" />
   </defs>
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:0.458647;stroke:#ffffff;stroke-width:0.947999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.947999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      id="rect231"
      width="85.357513"
      height="46.061829"
-     x="0.47399905"
-     y="0.47399694"
-     inkscape:export-filename="rect231.png"
+     x="0.47399879"
+     y="0.47400019"
+     inkscape:export-filename="rect231.svg"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="shopi_text"
-     transform="translate(-10.976401,-40.643343)">
+     transform="translate(-10.976401,-40.64334)">
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-39.814187,-28.133809)"
@@ -96,9 +93,9 @@
        style="font-size:53.3333px;line-height:0;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.85px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect218);opacity:1;fill:#8236b8;fill-opacity:0.458647;stroke:#000000;stroke-width:1.75748;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
          x="217.86133"
          y="368.78708"
-         id="tspan2"><tspan
+         id="tspan6176"><tspan
            style="font-style:italic;font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic'"
-           id="tspan1">Shopi</tspan></tspan></text>
+           id="tspan6174">Shopi</tspan></tspan></text>
     <path
        style="opacity:1;fill:#8234ba;fill-opacity:0.458647;stroke:#532451;stroke-width:0.796736;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        d="m 19.302689,71.311576 27.358909,2.41242"
@@ -108,12 +105,12 @@
   <path
      id="text206"
      style="font-size:11.2889px;line-height:0;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.224896px;writing-mode:vertical-lr;direction:ltr;text-anchor:start;white-space:pre;inline-size:9.98236;opacity:1;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1.09366;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 47.044472,6.2835238 c -0.756613,0 -1.378143,0.127421 -1.863968,0.382405 -0.493795,0.262484 -0.860226,0.614827 -1.099159,1.0573 -0.238933,0.449973 -0.358113,0.952436 -0.358113,1.507402 v 5.1976152 h 1.062984 V 9.2306308 c 0,-0.607464 0.17511,-1.106057 0.525545,-1.496033 0.342468,-0.382477 0.900225,-0.573609 1.672766,-0.573609 0.74865,0 1.310328,0.180041 1.684648,0.540019 0.36636,0.359978 0.54932,0.86631 0.54932,1.518771 v 5.2084672 h 1.07539 V 9.2533678 c 0,-0.892446 -0.27521,-1.612608 -0.82475,-2.160074 -0.55751,-0.539968 -1.365404,-0.80977 -2.424663,-0.80977 z" />
+     d="m 47.044472,6.2835271 c -0.756613,0 -1.378143,0.127421 -1.863968,0.382405 -0.493795,0.262484 -0.860226,0.614827 -1.099159,1.0573 -0.238933,0.449973 -0.358113,0.952436 -0.358113,1.507402 v 5.1976149 h 1.062984 V 9.2306341 c 0,-0.607464 0.17511,-1.106057 0.525545,-1.496033 0.342468,-0.382477 0.900225,-0.573609 1.672766,-0.573609 0.74865,0 1.310328,0.180041 1.684648,0.540019 0.36636,0.359978 0.54932,0.86631 0.54932,1.518771 v 5.2084669 h 1.07539 V 9.2533711 c 0,-0.892446 -0.27521,-1.612608 -0.82475,-2.160074 -0.55751,-0.539968 -1.365404,-0.80977 -2.424663,-0.80977 z" />
   <g
      inkscape:label="cart"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-10.976401,-40.643343)">
+     transform="translate(-10.976401,-40.64334)">
     <rect
        style="opacity:1;fill:#ce00db;fill-opacity:0;stroke:#000000;stroke-width:0.948;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect78"

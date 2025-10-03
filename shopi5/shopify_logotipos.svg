@@ -9,8 +9,11 @@
    id="svg1"
    inkscape:export-batch-path="C:\Users\bnuuy\Downloads\shopi5"
    inkscape:export-batch-name=""
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="shopify_logotipos.svg"
+   inkscape:export-filename="shopify_logotipos.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,15 +30,16 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="1.0167041"
-     inkscape:cx="295.56289"
-     inkscape:cy="258.18722"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:cx="344.24962"
+     inkscape:cy="156.87947"
+     inkscape:window-width="1600"
+     inkscape:window-height="828"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     inkscape:export-bgcolor="#46464600" />
+     inkscape:export-bgcolor="#46464600"
+     showgrid="false" />
   <defs
      id="defs1">
     <linearGradient
@@ -226,13 +230,13 @@
        id="rect218-7-7-7" />
   </defs>
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:0.458647;stroke:#ffffff;stroke-width:0.947999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.947999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      id="rect231"
      width="85.357513"
      height="46.061829"
      x="11.450399"
      y="41.11734"
-     inkscape:export-filename="rect231.svg"
+     inkscape:export-filename="rect231.png"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96" />
   <g
@@ -246,9 +250,9 @@
        style="font-size:53.3333px;line-height:0;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.85px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect218);fill:#8236b8;fill-opacity:0.458647;stroke:#000000;stroke-width:1.75748;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;opacity:1"><tspan
          x="217.86133"
          y="368.78708"
-         id="tspan4"><tspan
+         id="tspan2930"><tspan
            style="font-style:italic;font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic'"
-           id="tspan3">Shopi</tspan></tspan></text>
+           id="tspan2928">Shopi</tspan></tspan></text>
     <path
        style="opacity:1;fill:#8234ba;fill-opacity:0.458647;stroke:#532451;stroke-width:0.796736;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        d="m 19.302689,71.311576 27.358909,2.41242"
@@ -377,9 +381,9 @@
        style="font-size:53.3333px;line-height:0;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.85px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect218-8);fill:#8236b8;fill-opacity:0.458647;stroke:#000000;stroke-width:1.75748;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
          x="217.86133"
          y="368.78708"
-         id="tspan6"><tspan
+         id="tspan2934"><tspan
            style="font-style:italic;font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic'"
-           id="tspan5">Shopi</tspan></tspan></text>
+           id="tspan2932">Shopi</tspan></tspan></text>
     <path
        style="fill:#8234ba;fill-opacity:0.458647;stroke:#532451;stroke-width:0.796736;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        d="m 118.8453,70.709853 27.35891,2.41242"
@@ -492,9 +496,9 @@
        style="font-size:53.3333px;line-height:0;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.85px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect218-7);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.75748;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
          x="217.86133"
          y="368.78708"
-         id="tspan8"><tspan
+         id="tspan2938"><tspan
            style="font-style:italic;font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic'"
-           id="tspan7">Shopi</tspan></tspan></text>
+           id="tspan2936">Shopi</tspan></tspan></text>
     <path
        style="fill:#8234ba;fill-opacity:0.458647;stroke:#532451;stroke-width:0.796736;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        d="m 21.35047,121.04952 27.358904,2.41242"
@@ -510,9 +514,9 @@
        inkscape:export-ydpi="96"><tspan
          x="217.86133"
          y="368.78708"
-         id="tspan10"><tspan
+         id="tspan2942"><tspan
            style="font-style:italic;font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic'"
-           id="tspan9">Shopi</tspan></tspan></text>
+           id="tspan2940">Shopi</tspan></tspan></text>
     <path
        style="fill:#8234ba;fill-opacity:0.458647;stroke:#532451;stroke-width:0.796736;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        d="m 40.363999,208.78155 27.358904,2.41242"
@@ -725,9 +729,9 @@
        style="font-size:53.3333px;line-height:0;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.85px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect218-7-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.75748;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
          x="217.86133"
          y="368.78708"
-         id="tspan12"><tspan
+         id="tspan2946"><tspan
            style="font-style:italic;font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic'"
-           id="tspan11">Shopi</tspan></tspan></text>
+           id="tspan2944">Shopi</tspan></tspan></text>
     <path
        style="fill:#8234ba;fill-opacity:0.458647;stroke:#532451;stroke-width:0.796736;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        d="m 118.88569,118.52264 27.35891,2.41242"
@@ -743,9 +747,9 @@
        inkscape:export-ydpi="96"><tspan
          x="217.86133"
          y="368.78708"
-         id="tspan14"><tspan
+         id="tspan2950"><tspan
            style="font-style:italic;font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic'"
-           id="tspan13">Shopi</tspan></tspan></text>
+           id="tspan2948">Shopi</tspan></tspan></text>
     <path
        style="fill:#8234ba;fill-opacity:0.458647;stroke:#532451;stroke-width:0.796736;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        d="m 135.99637,206.79952 27.35891,2.41242"
